@@ -1,0 +1,5 @@
+This repository holds my personal Rails templates. See x for details.
+
+Usage:
+rails <project> -m http://github.com/nerab/rails-templates/raw/6e722b05c9998bd89f8e058e021b6da070ad9c11/git.rb
+
